@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables (API keys)
+.env
+
+# VS Code settings (optional)
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# Operating system files
+.DS_Store
+Thumbs.db
